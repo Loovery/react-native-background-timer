@@ -74,6 +74,7 @@ Link the library manually if you get errors:
     ```diff
     + pod 'react-native-background-timer', :path => '../node_modules/react-native-background-timer'
     ```
+    Rebuild project
 </details>
 
 ## Usage
